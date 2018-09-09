@@ -21,3 +21,6 @@ while True:
     else:
         print('you wrong')
         continue
+
+if l and d == name2:
+    print('Dima and Lena forever')
