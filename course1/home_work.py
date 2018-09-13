@@ -2,8 +2,7 @@
 q = input('what is the lang of Isael: ')
 if q != 'Hebrew':
     print('Not at all!')
-    q = input('what is the lang of Isael: ')
-if q == 'Hebrew':
+else:
     print("you're right")
 
 print('you need to give paraments to matter a square')
